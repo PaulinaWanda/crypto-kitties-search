@@ -7,7 +7,7 @@
                     v-for="(kitty, index) in kitties"
                     :key="index"
                     :kitty="kitty"
-                    class="col-sm-3"
+                    class="col-sm-6 col-md-3"
                     @click.native="clickKittyHandler(kitty)"
                 />
             </div>

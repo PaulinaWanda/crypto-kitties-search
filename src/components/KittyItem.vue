@@ -55,6 +55,7 @@ export default {
 
         .kitty-name {
             flex: 0 0 4em;
+            font-weight: 700;
         }
 
         .kitty-intro {
