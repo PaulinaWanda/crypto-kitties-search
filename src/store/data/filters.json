@@ -1,0 +1,483 @@
+[
+    {
+        "type": "text",
+        "label": "Crypto Kitty's name",
+        "value": ""
+    },
+    {
+        "type": "edition",
+        "label": "Editions",
+        "options": [
+            {
+                "name": "Editions",
+                "value": ""
+            },
+            {
+                "name": "2014",
+                "value": "2014"
+            },
+            {
+                "name": "2015",
+                "value": "2015"
+            },
+            {
+                "name": "2016",
+                "value": "2016"
+            },
+            {
+                "name": "2017",
+                "value": "2017"
+            }
+        ]
+    },
+    {
+        "type": "color",
+        "label": "Colors",
+        "options": [
+            {
+                "name": "Colors",
+                "value": ""
+            },
+            {
+                "name": "Lavender",
+                "value": "lavender"
+            },
+            {
+                "name": "Plum",
+                "value": "plum"
+            },
+            {
+                "name": "Violet",
+                "value": "violet"
+            },
+            {
+                "name": "Orchid",
+                "value": "orchid"
+            },
+            {
+                "name": "Fuchsia",
+                "value": "fuchsia"
+            },
+            {
+                "name": "Magenta",
+                "value": "magenta"
+            },
+            {
+                "name": "Medium Orchid",
+                "value": "medium-orchid"
+            },
+            {
+                "name": "Medium Purple",
+                "value": "medium-purple"
+            },
+            {
+                "name": "Rebecca Purple",
+                "value": "rebecca-purple"
+            },
+            {
+                "name": "Blue Violet",
+                "value": "blue-violet"
+            },
+            {
+                "name": "Dark Violet",
+                "value": "dark-violet"
+            },
+            {
+                "name": "Dark Orchid",
+                "value": "dark-orchid"
+            },
+            {
+                "name": "Dark Magenta",
+                "value": "dark-magenta"
+            },
+            {
+                "name": "Purple",
+                "value": "purple"
+            },
+            {
+                "name": "Indigo",
+                "value": "indigo"
+            },
+            {
+                "name": "Slate Blue",
+                "value": "slate-blue"
+            },
+            {
+                "name": "Medium Slate Blue",
+                "value": "medium-slate-blue"
+            },
+            {
+                "name": "Dark Slate Blue",
+                "value": "dark-slate-blue"
+            },
+            {
+                "name": "Thistle",
+                "value": "thistle"
+            },
+            {
+                "name": "Pink",
+                "value": "pink"
+            },
+            {
+                "name": "Light Pink",
+                "value": "light-pink"
+            },
+            {
+                "name": "Hot Pink",
+                "value": "hot-pink"
+            },
+            {
+                "name": "Deep Pink",
+                "value": "deep-pink"
+            },
+            {
+                "name": "Medium Violet Red",
+                "value": "medium-violet-red"
+            },
+            {
+                "name": "Pale Violet Red",
+                "value": "pale-violet-red"
+            },
+            {
+                "name": "Light Salmon",
+                "value": "light-salmon"
+            },
+            {
+                "name": "Coral",
+                "value": "coral"
+            },
+            {
+                "name": "Tomato",
+                "value": "tomato"
+            },
+            {
+                "name": "Orange Red",
+                "value": "orange-red"
+            },
+            {
+                "name": "Dark Orange",
+                "value": "dark-orange"
+            },
+            {
+                "name": "Orange",
+                "value": "orange"
+            },
+            {
+                "name": "Gold",
+                "value": "gold"
+            },
+            {
+                "name": "Yellow",
+                "value": "yellow"
+            },
+            {
+                "name": "Light Yellow",
+                "value": "light-yellow"
+            },
+            {
+                "name": "Lemon Chiffon",
+                "value": "lemon-chiffon"
+            },
+            {
+                "name": "Papaya Whip",
+                "value": "papaya-whip"
+            },
+            {
+                "name": "Moccasin",
+                "value": "moccasin"
+            },
+            {
+                "name": "Peach Puff",
+                "value": "peach-puff"
+            },
+            {
+                "name": "Pale Golden Rod",
+                "value": "pale-golden-rod"
+            },
+            {
+                "name": "Khaki",
+                "value": "khaki"
+            },
+            {
+                "name": "Dark Khaki",
+                "value": "dark-khaki"
+            },
+            {
+                "name": "Green Yellow",
+                "value": "green-yellow"
+            },
+            {
+                "name": "Chartreuse",
+                "value": "chartreuse"
+            },
+            {
+                "name": "Lawn Green",
+                "value": "lawn-green"
+            },
+            {
+                "name": "Lime",
+                "value": "lime"
+            },
+            {
+                "name": "Lime Green",
+                "value": "lime-green"
+            },
+            {
+                "name": "Pale Green",
+                "value": "pale-green"
+            },
+            {
+                "name": "Light Green",
+                "value": "light-green"
+            },
+            {
+                "name": "Spring Green",
+                "value": "spring-green"
+            },
+            {
+                "name": "Sea Green",
+                "value": "sea-green"
+            },
+            {
+                "name": "Forest Green",
+                "value": "forest-green"
+            },
+            {
+                "name": "Green",
+                "value": "green"
+            },
+            {
+                "name": "Dark Green",
+                "value": "dark-green"
+            },
+            {
+                "name": "Yellow Green",
+                "value": "yellow-green"
+            },
+            {
+                "name": "Olive Drab",
+                "value": "olive-drab"
+            },
+            {
+                "name": "Olive",
+                "value": "olive"
+            },
+            {
+                "name": "Dark Olive Green",
+                "value": "dark-olive-green"
+            },
+            {
+                "name": "Medium Aquamarine",
+                "value": "medium-aquamarine"
+            },
+            {
+                "name": "Dark Sea Green",
+                "value": "dark-sea-green"
+            },
+            {
+                "name": "Light Sea Green",
+                "value": "light-sea-green"
+            },
+            {
+                "name": "Dark Cyan",
+                "value": "dark-cyan"
+            },
+            {
+                "name": "Teal",
+                "value": "teal"
+            },
+            {
+                "name": "Aqua",
+                "value": "aqua"
+            },
+            {
+                "name": "Cyan",
+                "value": "cyan"
+            },
+            {
+                "name": "Light Cyan",
+                "value": "light-cyan"
+            },
+            {
+                "name": "Pale Turquoise",
+                "value": "pale-turquoise"
+            },
+            {
+                "name": "Aquamarine",
+                "value": "aquamarine"
+            },
+            {
+                "name": "Turquoise",
+                "value": "turquoise"
+            },
+            {
+                "name": "Medium Turquoise",
+                "value": "medium-turquoise"
+            },
+            {
+                "name": "Dark Turquoise",
+                "value": "dark-turquoise"
+            },
+            {
+                "name": "Cadet Blue",
+                "value": "cadet-blue"
+            },
+            {
+                "name": "Steel Blue",
+                "value": "steel-blue"
+            },
+            {
+                "name": "Light Steel Blue",
+                "value": "light-steel-blue"
+            },
+            {
+                "name": "Powder Blue",
+                "value": "powder-blue"
+            },
+            {
+                "name": "Light Blue",
+                "value": "light-blue"
+            },
+            {
+                "name": "Skye Blue",
+                "value": "skye-blue"
+            },
+            {
+                "name": "Light Skye Blue",
+                "value": "ligth-skye-blue"
+            },
+            {
+                "name": "Deep Skye Blue",
+                "value": "deep-skye-blue"
+            },
+            {
+                "name": "Dodger Blue",
+                "value": "dodger-blue"
+            },
+            {
+                "name": "Cornflower Blue",
+                "value": "cornflower-blue"
+            },
+            {
+                "name": "Royal Blue",
+                "value": "royal-blue"
+            },
+            {
+                "name": "Blue",
+                "value": "blue"
+            },
+            {
+                "name": "Dark Blue",
+                "value": "dark-blue"
+            },
+            {
+                "name": "Navy",
+                "value": "navy"
+            },
+            {
+                "name": "Midnight Blue",
+                "value": "midnight-blue"
+            }
+        ]
+    },
+    {
+        "type": "country",
+        "label": "Countries",
+        "options": [
+            {
+                "name": "Countries",
+                "value": ""
+            },
+            {
+                "name": "Armenia",
+                "value": "armenia"
+            },
+            {
+                "name": "Azerbaijan",
+                "value": "azerbaijan"
+            },
+            {
+                "name": "Belarus",
+                "value": "belarus"
+            },
+            {
+                "name": "Bosnia and Herzegovina",
+                "value": "bosnia-and-herzegovina"
+            },
+            {
+                "name": "Bulgaria",
+                "value": "bulgaria"
+            },
+            {
+                "name": "Croatia",
+                "value": "croatia"
+            },
+            {
+                "name": "Czech Republic",
+                "value": "czech-republic"
+            },
+            {
+                "name": "Estonia",
+                "value": "estonia"
+            },
+            {
+                "name": "Hungary",
+                "value": "hungary"
+            },
+            {
+                "name": "Kosovo",
+                "value": "kosovo"
+            },
+            {
+                "name": "Latvia",
+                "value": "latvia"
+            },
+            {
+                "name": "Lithuania",
+                "value": "lithuania"
+            },
+            {
+                "name": "Poland",
+                "value": "poland"
+            },
+            {
+                "name": "Romania",
+                "value": "romania"
+            },
+            {
+                "name": "Serbia",
+                "value": "serbia"
+            },
+            {
+                "name": "Slovakia",
+                "value": "slovakia"
+            },
+            {
+                "name": "Slovenia",
+                "value": "slovenia"
+            },
+            {
+                "name": "Ukraine",
+                "value": "ukraine"
+            }
+        ]
+    },
+    {
+        "type": "gender",
+        "label": "Gender",
+        "options": [
+            {
+                "name": "Gender",
+                "value": ""
+            },
+            {
+                "name": "Female",
+                "value": "female"
+            },
+            {
+                "name": "Male",
+                "value": "male"
+            }
+        ]
+    }
+]
