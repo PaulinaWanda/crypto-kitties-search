@@ -1,4 +1,5 @@
 import 'babel-polyfill'
+import 'bootstrap-sass/assets/stylesheets/_bootstrap.scss'
 import Vue from 'vue'
 import App from './App'
 
